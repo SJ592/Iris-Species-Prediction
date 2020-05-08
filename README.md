@@ -3,7 +3,7 @@ This is a web application for predicting the species of iris plant.
 
 Screenshot of Iris.csv dataset
 
-![dataset](link-to-image)
+![dataset](https://github.com/SJ592/Iris-Species-Prediction/blob/master/dataset.PNG)
 
 This dataset was used to train random forest classifier achieving an accuracy of 96.66%.
 
