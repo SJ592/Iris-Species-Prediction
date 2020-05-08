@@ -9,7 +9,7 @@ This dataset was used to train random forest classifier achieving an accuracy of
 
 The web application was created using Flask (for backend), HTML & CSS (for frontend)
 
-Libraries used-
+Libraries used- <br />
 Pandas - For data analysis and manipulation. <br />
 NumPy - For arrays and related operations. <br />
 Seaborn - For data visualization. <br />
