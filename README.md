@@ -10,10 +10,10 @@ This dataset was used to train random forest classifier achieving an accuracy of
 The web application was created using Flask (for backend), HTML & CSS (for frontend)
 
 Libraries used-
-Pandas - For data analysis and manipulation.
-NumPy - For arrays and related operations.
-Seaborn - For data visualization.
-Scikit-learn - For data preprocessing, label encoding, classification and model evaluation.
-Flask - For creating the web application
-Reuqest - To handle HTTP requests
-Pickle - To save the trained model.
+Pandas - For data analysis and manipulation. <br />
+NumPy - For arrays and related operations. <br />
+Seaborn - For data visualization. <br />
+Scikit-learn - For data preprocessing, label encoding, classification and model evaluation. <br />
+Flask - For creating the web application. <br />
+Reuqest - To handle HTTP requests. <br />
+Pickle - To save the trained model. <br />
