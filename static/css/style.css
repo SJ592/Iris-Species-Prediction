@@ -1,0 +1,44 @@
+body{
+	background-image: url(https://i.pinimg.com/originals/a1/89/2b/a1892bd4e87704dec4a8f9167b30d54e.jpg);
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	font-size: 30px;
+	color:black;
+}
+
+h2{
+	text-align: center;
+	font-size: 50px;
+	color:black;
+}
+
+label{
+	margin:40px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 20px;
+	color:black;
+}
+
+input{
+	box-sizing: border-box;
+	font-size: 20px;
+	display: inline-block;
+}
+
+input[type=submit] {
+	background-color:navy;
+	font-size: 20px;
+	text-align: center;
+	color:white;
+	size:30px;
+	border:2px solid white;
+	border-radius: 4px;
+	width: 9%;
+	height: 5%;
+	position: relative;
+}
