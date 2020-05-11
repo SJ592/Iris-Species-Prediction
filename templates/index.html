@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Iris Species Prediction</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  	<h1>Iris Species Prediction</h1>
+		<form action="/result" method="POST">
+    	<label for="SepalWidthCm">Sepal Width (in cm)</label>
+        <br>
+    	<input type="text" id="SepalWidthCm" name="SepalWidthCm" style="width: 200px;">
+    	<br>
+    	<label for="SepalLengthCm">Sepal Length (in cm)</label>
+        <br>
+    	<input type="text" id="SepalLengthCm" name="SepalLengthCm" style="width: 200px;">
+    	<br>
+    	<label for="PetalWidthCm">Petal Width (in cm)</label>
+        <br>
+    	<input type="text" id="PetalWidthCm" name="PetalWidthCm" style="width: 200px;">
+    	<br>
+    	<label for="PetalLengthCm">Petal Length (in cm)</label>
+        <br>
+    	<input type="text" id="PetalLengthCm" name="PetalLengthCm" style="width: 200px;">
+    	<br>
+    	<br>
+    <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
+
