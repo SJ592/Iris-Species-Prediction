@@ -17,3 +17,9 @@ Scikit-learn - For data preprocessing, label encoding, classification and model 
 Flask - For creating the web application. <br />
 Reuqest - To handle HTTP requests. <br />
 Pickle - To save the trained model. <br />
+
+Web application screenshots-
+
+![input](https://github.com/SJ592/Iris-Species-Prediction/blob/master/iris1.PNG)
+
+![output](https://github.com/SJ592/Iris-Species-Prediction/blob/master/iris2.PNG)
